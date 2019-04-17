@@ -11,5 +11,5 @@
 - If \ doesn't work. Replace \ with / 
 
 For those who want to dig in even deeper!
-- I suggest downloading the whole data located in the folder all data. The csv file contains more years.
-- Our from the kaggle website https://www.kaggle.com/cityofLA/los-angeles-parking-citations. You will need an account to download
+- You can download the whole data located in the folder all data. The csv file contains more years.
+- Or from the kaggle website https://www.kaggle.com/cityofLA/los-angeles-parking-citations. You will need an account to download
