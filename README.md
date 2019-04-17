@@ -9,3 +9,6 @@
 - Click on properties and next to Location, copy the directory. Ex: '\Users\Dustin\Desktop...\parking-citations-2018.csv'
 - Then paste it to the path variable. Remember it needs to have '' in between it.
 - If \ doesn't work. Replace \ with / 
+
+For those who want to dig in even deeper!
+- I suggest downloading the whole data located in the folder all data. The csv file contains more years.
