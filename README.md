@@ -14,4 +14,4 @@ For those who want to dig in even deeper!
 - Feel free to play revise or play around with the code.
 - You can download the whole data located in the folder all data. The csv file contains more years.
 - Or from the kaggle website https://www.kaggle.com/cityofLA/los-angeles-parking-citations. You will need an account to download
-- Play around with the sample size. I used 33,340, but you choose whatever number you want or even delete it.
+- Play around with the sample size. I used 33,340, but you choose whatever number you want or even delete it and use all the data.
